@@ -1,6 +1,7 @@
 ### 欢迎来到 Code.Hub！
 
 [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/bJ3DDkbDV3)
+
 你好！欢迎来到 Code.Hub，这是 [Hub-develop](https://github.com/Hub-develop) 的社区用户以及官方开发者们组建成的一个组织。
 
 我们会在这里一起制作一些有趣的关于 Hub(系列应用)、Minecraft，甚至是其他的一些的小东西，如果你感兴趣的话可以来看看！
@@ -12,6 +13,7 @@
 ### Welcome to Code.Hub!
 
 [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/bJ3DDkbDV3)
+
 Hello! Welcome to Code.Hub, an organization formed by community members and official developers associated with [Hub-develop](https://github.com/Hub-develop).
 
 Here, we collaborate on interesting projects—ranging from the "Hub" series of applications and Minecraft mods to various other small tools. Feel free to take a look if you're interested!
