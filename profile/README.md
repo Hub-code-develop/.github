@@ -1,4 +1,4 @@
-### 欢迎来到 Code.Hub！/Welcome to Code.Hub!
+### 欢迎来到 Code.Hub！/ Welcome to Code.Hub!
 
 [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/bJ3DDkbDV3)
 
