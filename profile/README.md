@@ -16,6 +16,5 @@ We welcome more community creators to join us. If you are interested, please app
 
 > [!CAUTION]
 >组织内禁止创建违反法律法规的内容。一经发现社区管理员有权立即删除内容并将有关人员移出组织。涉及行政或刑事违法的，我们会尽力配合公安机关等政府部门的调查。本组织不对成员创建的违法项目承担任何法律责任。
-
-> [!CAUTION]
+>
 > Creating content that violates laws or regulations is strictly prohibited within the organization. Community administrators reserve the right to immediately remove such content and expel the individuals involved. In cases involving administrative or criminal violations, we will fully cooperate with investigations by public security agencies and other government authorities. The organization assumes no legal liability for illegal projects created by its members.
