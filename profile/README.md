@@ -2,6 +2,8 @@
 
 [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/bJ3DDkbDV3)
 
+>Hub,Connect user and PC(or AI).
+
 你好！欢迎来到 Code.Hub，这是 [Hub-develop](https://github.com/Hub-develop) 的社区用户以及官方开发者们组建成的一个组织。
 
 Hello! Welcome to Code.Hub, an organization formed by community members and official developers associated with [Hub-develop](https://github.com/Hub-develop).
