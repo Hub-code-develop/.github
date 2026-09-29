@@ -1,7 +1,7 @@
 ### 欢迎来到 Code.Hub！/ Welcome to Code.Hub!
 
 <img width="2048" height="512" alt="Hub Code-head" src="https://github.com/user-attachments/assets/95a8c7b3-0122-41b9-b3a1-d10c92735445" />
->Hub,Connect user and PC(or AI).
+> Hub,Connect user and PC(or AI).
 
 [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/bJ3DDkbDV3)
 
