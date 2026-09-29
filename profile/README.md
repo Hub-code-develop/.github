@@ -1,10 +1,9 @@
 ### 欢迎来到 Code.Hub！/ Welcome to Code.Hub!
 
 <img width="2048" height="512" alt="Hub Code-head" src="https://github.com/user-attachments/assets/95a8c7b3-0122-41b9-b3a1-d10c92735445" />
+>Hub,Connect user and PC(or AI).
 
 [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/bJ3DDkbDV3)
-
->Hub,Connect user and PC(or AI).
 
 你好！欢迎来到 Code.Hub，这是 [Hub-develop](https://github.com/Hub-develop) 的社区用户以及官方开发者们组建成的一个组织。
 
