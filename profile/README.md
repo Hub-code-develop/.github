@@ -5,7 +5,7 @@
 > Hub,Connect user and PC(or AI).
 
 <p align="center">
-  <a>
+  <a href="">
     <img src="https://skillicons.dev/icons?i=git,cs,cpp,c,cmake,css,figma" />
   </a>
   <a href="https://discord.gg/QcbCCZBxtN">
