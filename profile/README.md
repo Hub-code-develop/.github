@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/orgs/Hub-code-develop/repositories">
-    <img src="https://skillicons.dev/icons?i=git,cs,cpp,c,cmake,css,npm,ts,figma" />
+    <img src="https://skillicons.dev/icons?i=git,cs,cpp,c,cmake,css,npm,py,vue,macos,windows,liunx,ts,figma" />
   </a>
   <a href="https://discord.gg/QcbCCZBxtN">
     <img src="https://skillicons.dev/icons?i=discord">
