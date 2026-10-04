@@ -7,9 +7,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,cpp,c,cmake,css,figma" />
+    <img src="https://skillicons.dev/icons?i=discord" link="https://discord.gg/Fc2x92fxuK">
   </a>
 </p>
-<img src="https://skillicons.dev/icons?i=discord" link="https://discord.gg/Fc2x92fxuK">
 
 你好！欢迎来到 Code.Hub，这是 [Hub-develop](https://github.com/Hub-develop) 的社区用户以及官方开发者们组建成的一个组织。
 
