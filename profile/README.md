@@ -5,13 +5,17 @@
 > Hub,Connect user and PC(or AI).
 
 <p align="center">
-  <a>
-    <a href="https://discord.gg/QcbCCZBxtN">
-      <img src="https://skillicons.dev/icons?i=discord">
-    </a>
-    <a href="https://github.com/orgs/Hub-code-develop/repositories">
-      <img src="https://skillicons.dev/icons?i=git,cs,cpp,c,cmake,npm,py,vue,ts,js,css,html,md,azure,apple,windows,linux,figma" />
-    </a>
+  <a href="https://discord.gg/QcbCCZBxtN">
+    <img src="https://skillicons.dev/icons?i=discord">
+  </a>
+  <a href="https://github.com/orgs/Hub-code-develop/repositories">
+    <img src="https://skillicons.dev/icons?i=git,cs,cpp,c,cmake,npm,py,vue,ts,js,css,html,md"/>
+  </a>
+  <a href="https://github.com/orgs/Hub-code-develop/repositories">
+    <img src="https://skillicons.dev/icons?i=azure">
+  </a>
+  <a href="https://github.com/orgs/Hub-code-develop/repositories">
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux"/>
   </a>
 </p>
 
