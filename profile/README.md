@@ -7,7 +7,7 @@
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=git,cs,cpp,c,cmake,css,figma" />
-    <a src="https://skillicons.dev/icons?i=discord" href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" href="https://skillicons.dev">
   </a>
 </p>
 
